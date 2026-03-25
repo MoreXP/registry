@@ -1,0 +1,12 @@
+[
+  {
+    "id": "core.notes",
+    "title": "Notes",
+    "description": "Auto-saving notes panel with full markdown support",
+    "bundleUrl": "",
+    "version": "1.0.0",
+    "author": "MoreXP",
+    "verified": true,
+    "permissions": []
+  }
+]
